@@ -1,9 +1,9 @@
 # nodejs-load-test
 A very basic to test a gracefull shutdown on kill command
 
-npm install
-npm run build
-npm run start 
+`npm install`
+`npm run build`
+`npm run start` 
 
 run on port 3000
 
