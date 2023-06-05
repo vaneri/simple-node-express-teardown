@@ -1,4 +1,4 @@
-# nodejs-load-test
+# simple-node-express-teardown
 A very basic to test a gracefull shutdown on kill command
 
 `npm install`
